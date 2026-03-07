@@ -1,6 +1,6 @@
 # multirisk-app
 
-You can access our web-based app at: https://labmeq-multirisk-app.streamlit.app/
+You can access our web-based app at: https://labmeq-app-multirisk.streamlit.app/
 
 Streamlit app for evaluation of multiparametric decision risk considering measurement uncertainty and correlation effects
 This Python-based app was developed by LabMEQ aiming to provide an user-friendly, reliable, and robust framework to help analytical laboratories evaluate decision risks of accepting non-conforming results in a range of applications, such as pharmaceutical quality control. This evaluation is done using multivariate Monte Carlo Simulations.
