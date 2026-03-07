@@ -7,6 +7,11 @@ import pandas as pd
 from fpdf import FPDF
 import tempfile
 
+st.set_page_config(
+    page_title="Multiparametric Risk Calculator",
+    layout="wide"
+)
+
 # --- APP LAYOUT ---
 st.header("MULTIPARAMETRIC RISK CALCULATOR")
 
