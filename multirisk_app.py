@@ -104,7 +104,7 @@ side_container1 = st.sidebar.container()
 with side_container1:
     st.sidebar.subheader("About the app")
     st.sidebar.write("This app was developed by LabMEQ - Laboratory of Metrology, Examinology and Quality by Design, based at University of São Paulo, Brazil, supervised by Prof. Felipe Rebello Lourenço."
-             " The main goal of this app is to provide a simple, reliable and user-friendly algorithm for estimating consumer's risk in pharmaceutical analyses. For further information about the app and examples of its use, please refer to (artigo)")
+             " The main goal of this app is to provide a simple, reliable and user-friendly algorithm for estimating consumer's risk in pharmaceutical analyses. For further information about the app and examples of its use, please refer to doi.org/10.1016/j.microc.2026.117824")
 
 side_container2 = st.sidebar.container()
 
